@@ -1,8 +1,47 @@
-## My Tableau Public Projects
+Airways Project Dashboard (Link to the dashboard: https://public.tableau.com/app/profile/damien.wayne/viz/AirwaysProject_17287367653280/Dashboard1 )
+Overview
 
-### Project Title
-Description of the project.
-* This project is created using the british airways review and country datasets.
-* The dashboard contains visualisations which provide insights to various metrics.
-* The visulations are fully interactable.
-[View the project here] (https://public.tableau.com/app/profile/damien.wayne/viz/AirwaysProject_17287367653280/Dashboard1)
+The Airways Project Dashboard provides an interactive visualization of key metrics related to air travel. This dashboard is designed to offer insights into flight performance, passenger statistics, and operational efficiency.
+Features
+
+    Interactive Visualizations: Explore various metrics through charts and graphs.
+    Real-Time Data: Access updated information to make informed decisions.
+    User-Friendly Interface: Navigate through the dashboard with ease.
+
+Key Metrics
+
+    Flight Delays: Analyze patterns in delays across different airlines and routes.
+    Passenger Count: View trends in passenger numbers over time.
+    On-Time Performance: Assess the reliability of flights.
+
+Data Sources
+
+The data for this dashboard is sourced from [insert data sources, e.g., airline databases, government transportation datasets]. Ensure data privacy and compliance with relevant regulations.
+Getting Started
+
+    Access the Dashboard: Visit the link Airways Project Dashboard.
+    Explore the Visualizations: Use filters and controls to customize your view.
+    Analyze the Data: Identify trends and insights relevant to your nee
+Overview
+
+The Airways Project Dashboard provides an interactive visualization of key metrics related to air travel. This dashboard is designed to offer insights into flight performance, passenger statistics, and operational efficiency.
+Features
+
+    Interactive Visualizations: Explore various metrics through charts and graphs.
+    Real-Time Data: Access updated information to make informed decisions.
+    User-Friendly Interface: Navigate through the dashboard with ease.
+
+Key Metrics
+
+    Flight Delays: Analyze patterns in delays across different airlines and routes.
+    Passenger Count: View trends in passenger numbers over time.
+    On-Time Performance: Assess the reliability of flights.
+
+Data Sources
+
+The data for this dashboard is sourced from [insert data sources, e.g., airline databases, government transportation datasets]. Ensure data privacy and compliance with relevant regulations.
+Getting Started
+
+    Access the Dashboard: Visit the link Airways Project Dashboard.
+    Explore the Visualizations: Use filters and controls to customize your view.
+    Analyze the Data: Identify trends and insights relevant to your needs.
